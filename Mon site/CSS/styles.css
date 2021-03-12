@@ -1,0 +1,21 @@
+.image{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+
+h1{
+    font-weight: bolder;
+    background: black;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+p{
+    text-align: center;
+    font-size: larger;
+    font-weight:500;
+    font-family: 'Courier New', Courier, monospace;
+}
